@@ -57,6 +57,12 @@ A private full-stack platform project where I work on production-grade web, back
   <img src="https://skillicons.dev/icons?i=go,rust,postgres,redis,docker,cloudflare,linux,git" alt="Go, Rust, PostgreSQL, Redis, Docker, Cloudflare, Linux, Git" />
 </p>
 
+### Systems I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,ubuntu,windows" alt="Android, Ubuntu, Windows" />
+</p>
+
 ### Engineering Interests
 
 - Android device integrity and local security diagnostics.
