@@ -1,25 +1,27 @@
-<h1 align="center">Hi, I'm Eltavine</h1>
-<h3 align="center">Web && Native developer building Android security tools and production web platforms.</h3>
+<h1 align="center">Hi, I'm Eltavine 👋</h1>
+<h3 align="center">Web & Native developer building Android security tools and production web platforms.</h3>
 
 <p align="center">
-  <a href="https://eltavine.com/">个人网站</a>
+  <a href="https://eltavine.com/">Personal Website</a>
   ·
   <a href="https://github.com/eltavine">GitHub</a>
   ·
   <a href="https://github.com/eltavine/Duck-Detector-Refactoring">Duck Detector</a>
+  ·
+  <a href="mailto:me@eltavine.com">me@eltavine.com</a>
 </p>
 
 ---
 
-### About Me
+### About Me ✨
 
 - Working on **Duck Detector**, a local-first Android security detection app.
-- Building across **Android / Kotlin / C++ / NDK** and **React / TypeScript / Go**.
+- Building across <ins>**Android / Kotlin / C++ / NDK**</ins> and <ins>**React / TypeScript / Go**</ins>.
 - Interested in device integrity, native probes, auth systems, platform engineering, and privacy-aware products.
 - Currently learning deeper **C++**, Android internals, and production security architecture.
 - Open to collaboration on **Android**, security tooling, and thoughtful full-stack products.
 
-### Featured Work
+### Featured Work 🚀
 
 #### Duck Detector
 
@@ -29,7 +31,7 @@ An Android security research and diagnostic app focused on local, on-device evid
 - Detects signals across **Root**, **Bootloader**, **Custom ROM**, **Dangerous Apps**, **Kernel Check**, **LSPosed**, **Memory**, **Mount**, **Play Integrity Fix**, **SELinux**, **System Properties**, **TEE / KeyStore**, **Virtualization**, and **Zygisk**.
 - Uses modular feature packages with separate `domain`, `data`, `presentation`, and `ui` layers.
 - Includes native preload, JNI bridges, cross-process validation, isolated-process checks, and C++ / assembly probe paths.
-- Privacy-first by default: core detection runs locally, with network use limited to explicit user-triggered refresh paths.
+- <ins>**Privacy-first by default**</ins>: core detection runs locally, with network use limited to explicit user-triggered refresh paths.
 
 #### Private Production Platform
 
@@ -41,7 +43,7 @@ A private full-stack platform project where I work on production-grade web, back
 - Deployment and operations cover **Cloudflare Pages**, Docker-based VPS services, migrations, runtime config validation, OpenTelemetry, SBOM generation, license checks, vulnerability scanning, and secret scanning.
 - Frontend work spans separate admin, console, and landing applications with typed app config, generated RPC clients, i18n, and reusable UI/auth packages.
 
-### Tech I Use
+### Tech I Use 🛠️
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,c,cpp,cmake,gradle" alt="Android, Kotlin, Java, C, C++, CMake, Gradle" />
@@ -69,5 +71,7 @@ A private full-stack platform project where I work on production-grade web, back
   <a href="https://github.com/eltavine" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eltavine" height="30" width="40" />
   </a>
-  <a href="https://eltavine.com/" target="blank">个人网站</a>
+  <a href="https://eltavine.com/" target="blank">Personal Website</a>
+  ·
+  <a href="mailto:me@eltavine.com">Email</a>
 </p>
