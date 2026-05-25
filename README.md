@@ -1,19 +1,73 @@
-# Hi 👋, I'm Eltavine
+<h1 align="center">Hi, I'm Eltavine</h1>
+<h3 align="center">Web && Native developer building Android security tools and production web platforms.</h3>
 
-### A Web&&Native developer
-
-- 🔭 I'm currently working on **Duck Detector**
-
-- 🌱 I'm currently learning **C++ && Android**
-
-- 👯 I'm looking to collaborate on **Android**
-
-- 📝 My Personal Page  **[Eltavine ](https://eltavine.com/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/eltavine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eltavine" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://eltavine.com/">个人网站</a>
+  ·
+  <a href="https://github.com/eltavine">GitHub</a>
+  ·
+  <a href="https://github.com/eltavine/Duck-Detector-Refactoring">Duck Detector</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
+
+### About Me
+
+- Working on **Duck Detector**, a local-first Android security detection app.
+- Building across **Android / Kotlin / C++ / NDK** and **React / TypeScript / Go**.
+- Interested in device integrity, native probes, auth systems, platform engineering, and privacy-aware products.
+- Currently learning deeper **C++**, Android internals, and production security architecture.
+- Open to collaboration on **Android**, security tooling, and thoughtful full-stack products.
+
+### Featured Work
+
+#### Duck Detector
+
+An Android security research and diagnostic app focused on local, on-device evidence collection.
+
+- Built with **Kotlin**, **Jetpack Compose**, **Material 3**, **Android NDK**, **C++**, and low-level native probes.
+- Detects signals across **Root**, **Bootloader**, **Custom ROM**, **Dangerous Apps**, **Kernel Check**, **LSPosed**, **Memory**, **Mount**, **Play Integrity Fix**, **SELinux**, **System Properties**, **TEE / KeyStore**, **Virtualization**, and **Zygisk**.
+- Uses modular feature packages with separate `domain`, `data`, `presentation`, and `ui` layers.
+- Includes native preload, JNI bridges, cross-process validation, isolated-process checks, and C++ / assembly probe paths.
+- Privacy-first by default: core detection runs locally, with network use limited to explicit user-triggered refresh paths.
+
+#### Private Production Platform
+
+A private full-stack platform project where I work on production-grade web, backend, auth, deployment, and governance architecture.
+
+- Monorepo with **pnpm**, **Turborepo**, **React**, **Vite**, **Astro**, **TypeScript**, and shared web packages.
+- Backend built with **Go**, **ConnectRPC**, **Protobuf**, **SQLC**, **PostgreSQL**, **Redis**, and structured module boundaries.
+- Auth and authorization work includes **Ory Kratos / Hydra / Keto / Oathkeeper**, browser auth flows, OAuth surfaces, tenant-aware access, MFA bootstrap, and audit trails.
+- Deployment and operations cover **Cloudflare Pages**, Docker-based VPS services, migrations, runtime config validation, OpenTelemetry, SBOM generation, license checks, vulnerability scanning, and secret scanning.
+- Frontend work spans separate admin, console, and landing applications with typed app config, generated RPC clients, i18n, and reusable UI/auth packages.
+
+### Tech I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,c,cpp,cmake,gradle" alt="Android, Kotlin, Java, C, C++, CMake, Gradle" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,astro,html,css,nodejs" alt="TypeScript, JavaScript, React, Vue, Astro, HTML, CSS, Node.js" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,rust,postgres,redis,docker,cloudflare,linux,git" alt="Go, Rust, PostgreSQL, Redis, Docker, Cloudflare, Linux, Git" />
+</p>
+
+### Engineering Interests
+
+- Android device integrity and local security diagnostics.
+- Native runtime visibility, JNI boundaries, C++ probes, and platform behavior under modified environments.
+- Contract-first APIs with Protobuf / ConnectRPC and generated clients.
+- Authentication, authorization, MFA, OAuth, tenant isolation, and auditability.
+- CI quality gates, reproducible builds, dependency governance, and secure deployment workflows.
+
+### Connect
+
+<p align="left">
+  <a href="https://github.com/eltavine" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eltavine" height="30" width="40" />
+  </a>
+  <a href="https://eltavine.com/" target="blank">个人网站</a>
+</p>
