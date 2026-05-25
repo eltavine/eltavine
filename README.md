@@ -60,7 +60,9 @@ A private full-stack platform project where I work on production-grade web, back
 ### Systems I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,ubuntu,windows" alt="Android, Ubuntu, Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" width="40" height="40" />
 </p>
 
 ### Engineering Interests
