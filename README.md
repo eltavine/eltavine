@@ -6,9 +6,9 @@
 
 - 🌱 I'm currently learning **C++ && Android**
 
-- 👯 I'm looking to collaborate on ** Android **
+- 👯 I'm looking to collaborate on **Android**
 
-- 📝 I regularly write articles on **[个人网站](https://eltavine.com/)**
+- 📝 My Personal Page  **[Eltavine ](https://eltavine.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
